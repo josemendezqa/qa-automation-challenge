@@ -1,4 +1,4 @@
-# UI and API automted testing for BEON.tech interview
+# UI and API automated testing for BEON.tech interview
 
 ## Overview
 This repository contains automated API and UI tests implemented with Playwright and JavaScript.
